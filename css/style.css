@@ -6,12 +6,12 @@
 }
 
 body {
-  background: #E5E5E5;
+  background: #800000;
   background-image: url("bg.jpg");
 }
 
 #card-front {
-  color: #FFDFDF;
+  color: #affaef;
   z-index: 10;
 }
 
